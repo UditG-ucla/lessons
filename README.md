@@ -1,4 +1,4 @@
-## Fitting ML models on various real-datasets  
+## Fitting ML models on various datasets
 
 **Linear regression and regularization:** 
 * Advertising dataset (from ISLR)
@@ -9,10 +9,10 @@
 * [IRIS dataset (for multiclass)](https://www.kaggle.com/uciml/iris)
 * [Heart disease dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 * Online advertising dataset
-* Titanic dataset
+* [Titanic dataset](https://www.kaggle.com/c/titanic/data)
 
 **KNN Classifier:**
 * Gene expression/ Cancer dataset
 * [Mine/ Rock datase](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
 
-Python reference code
+**Python reference code**
