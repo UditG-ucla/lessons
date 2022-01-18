@@ -16,3 +16,6 @@
 * [Mine/ Rock datase](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
 
 **Python reference code**
+
+**Fun reads**
+* SVM - [Theoretical Foundation of the Potential Function (1964, Aizerman et al)](https://cs.uwaterloo.ca/~y328yu/classics/kernel.pdf)
