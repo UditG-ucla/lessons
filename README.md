@@ -1,6 +1,6 @@
 Examples of using various ML models on real-datasets  
 
-**Linear regression and regularization:  
+**Linear regression and regularization: ** 
 * Advertising dataset (from ISLR)
 * [Ames housing dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
@@ -11,7 +11,7 @@ Examples of using various ML models on real-datasets
 * Online advertising dataset
 * Titanic dataset
 
-**KNN Classifier: 
+**KNN Classifier: **
 * Gene expression/ Cancer dataset
 * [Mine/ Rock datase](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
 
