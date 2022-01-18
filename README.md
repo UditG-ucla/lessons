@@ -1,4 +1,4 @@
-Examples of using various ML models on real-datasets  
+##Examples of using various ML models on real-datasets  
 
 **Linear regression and regularization: ** 
 * Advertising dataset (from ISLR)
