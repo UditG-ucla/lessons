@@ -18,8 +18,11 @@
 **SVM Classifier / Regression:**
 * [Cement slump dataset](https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test)
 * Wine Fraud dataset
-  
-  
+
+**Trees:**
+* [Palmer Penguins](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
+ 
+ 
 **Fun reads:**
 * SVM
   * [Theoretical Foundation of the Potential Function (1964, Aizerman et al)](https://cs.uwaterloo.ca/~y328yu/classics/kernel.pdf)
