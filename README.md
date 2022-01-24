@@ -26,6 +26,7 @@
 **Fun reads:**
 * Trees
   * [Random Decision Forests (1995, Ho)](https://www4.stat.ncsu.edu/~lu/ST7901/reading%20materials/Ho1995.pdf)
+  * [Leo Brieman's website](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 * SVM
   * [Theoretical Foundation of the Potential Function (1964, Aizerman et al)](https://cs.uwaterloo.ca/~y328yu/classics/kernel.pdf)
   * [Training Algorithm for Optimal Margin Classifier (1992, Vapnik et al)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.3818&rep=rep1&type=pdf)
