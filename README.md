@@ -13,15 +13,15 @@
 
 **KNN Classifier:**
 * Gene expression/ Cancer dataset
-* [Mine/ Rock datase](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
+* [Mine/ Rock dataset](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
   
 **SVM Classifier / Regression:**
 * [Cement slump dataset](https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test)
 * Wine Fraud dataset
 
 **Trees:**
-* [Palmer Penguins](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
- 
+* [Palmer Penguins dataset](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
+* [Banknote Authentication dataset](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
  
 **Fun reads:**
 * Trees
