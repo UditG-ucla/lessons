@@ -11,17 +11,18 @@
 * Online advertising dataset
 * [Titanic dataset](https://www.kaggle.com/c/titanic/data)
 
-**KNN Classifier:**
+**KNN classification:**
 * Gene expression/ Cancer dataset
 * [Mine/ Rock dataset](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
   
-**SVM Classifier / Regression:**
+**SVM classification / regression:**
 * [Cement slump dataset](https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test)
 * Wine Fraud dataset
 
-**Trees:**
+**Trees classification / regression**
 * [Palmer Penguins dataset](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
 * [Banknote Authentication dataset](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
+* [Rock Density Xray dataset (regression)](https://www.kaggle.com/ahmedmohameddawoud/rock-density-xray/activity)
  
 **Fun reads:**
 * Trees
