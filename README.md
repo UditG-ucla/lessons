@@ -19,11 +19,12 @@
 * [Cement slump dataset](https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test)
 * Wine Fraud dataset
 
-**Decision Trees / Random Forest / Ada & Gradient Boosting**
+**Decision Trees / Random Forest / Ada & Gradient Boosting / XGBoost**
 * [Palmer Penguins dataset](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
 * [Banknote Authentication dataset](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 * [Rock Density Xray dataset (regression)](https://www.kaggle.com/ahmedmohameddawoud/rock-density-xray/activity)
 * [Mushroom dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
+* [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/data?select=test.csv)
  
 **References & Fun reads:**
 * Trees
