@@ -31,6 +31,8 @@
   * [Leo Brieman's website](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
   * [Stochastic Gradient Boosting (1998, Friedman)](https://jerryfriedman.su.domains/ftp/stobst.pdf)
   * [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (1996, Schapire et al)](https://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)
+
+* Suppor Vector Machines
   * [Theoretical Foundation of the Potential Function (1964, Aizerman et al)](https://cs.uwaterloo.ca/~y328yu/classics/kernel.pdf)
   * [Training Algorithm for Optimal Margin Classifier (1992, Vapnik et al)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.3818&rep=rep1&type=pdf)
   * [Support Vector Networks (1995, Vapnik et al)](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf)
