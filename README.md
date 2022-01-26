@@ -31,6 +31,7 @@
   * [Leo Brieman's website](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
   * [Stochastic Gradient Boosting (1998, Friedman)](https://jerryfriedman.su.domains/ftp/stobst.pdf)
   * [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting (1996, Schapire et al)](https://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)
+  * [Gentle Introduction to Gradient Boosting (slides)](http://www.chengli.io/tutorials/gradient_boosting.pdf)
 
 * Suppor Vector Machines
   * [Theoretical Foundation of the Potential Function (1964, Aizerman et al)](https://cs.uwaterloo.ca/~y328yu/classics/kernel.pdf)
