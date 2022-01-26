@@ -23,6 +23,7 @@
 * [Palmer Penguins dataset](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
 * [Banknote Authentication dataset](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 * [Rock Density Xray dataset (regression)](https://www.kaggle.com/ahmedmohameddawoud/rock-density-xray/activity)
+* [Mushroom dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
  
 **Fun reads:**
 * Trees
