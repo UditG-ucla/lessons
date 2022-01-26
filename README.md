@@ -19,7 +19,7 @@
 * [Cement slump dataset](https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test)
 * Wine Fraud dataset
 
-**Trees / Forest / Boosting**
+**Decision Trees / Random Forest / Ada & Gradient Boosting**
 * [Palmer Penguins dataset](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
 * [Banknote Authentication dataset](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 * [Rock Density Xray dataset (regression)](https://www.kaggle.com/ahmedmohameddawoud/rock-density-xray/activity)
