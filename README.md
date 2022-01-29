@@ -26,6 +26,9 @@
 * [Mushroom dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
 * [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/data?select=test.csv)
  
+**Naive Bayes / NLP**
+* [Large Movie Review dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+
 **References & Fun reads:**
 * Trees
   * [Random Decision Forests (1995, Ho)](https://www4.stat.ncsu.edu/~lu/ST7901/reading%20materials/Ho1995.pdf)
