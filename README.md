@@ -29,6 +29,9 @@
 **NLP / Naive Bayes**
 * [Large Movie Review dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
+**Recommender System**
+* [Grouplens Movie Rating dataset](https://grouplens.org/datasets/movielens/)
+
 **References & Fun reads:**
 * Trees
   * [Random Decision Forests (1995, Ho)](https://www4.stat.ncsu.edu/~lu/ST7901/reading%20materials/Ho1995.pdf)
