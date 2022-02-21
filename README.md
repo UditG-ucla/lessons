@@ -46,3 +46,6 @@
   * [Training Algorithm for Optimal Margin Classifier (1992, Vapnik et al)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.3818&rep=rep1&type=pdf)
   * [Support Vector Networks (1995, Vapnik et al)](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf)
   * [Tutorial on SV Regression (2003)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4448154647BC7B10C991CEF2236BBA38?doi=10.1.1.114.4288&rep=rep1&type=pdf)
+
+* Imbalanced Learning
+  * [Isolation-Based Anomaly Detection (2012, Liu et al.)](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf)
