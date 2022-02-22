@@ -31,7 +31,7 @@
 * [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/data?select=test.csv)
 * [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn) - churn analysis notebook
 
-**Neural Network**
+**Neural Network (basic)**
 * [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 * Customer Attrition - proprietary dataset
 
