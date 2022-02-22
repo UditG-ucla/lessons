@@ -30,7 +30,11 @@
 * [Mushroom dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
 * [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/data?select=test.csv)
 * [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
- 
+
+**Neural Network**
+* [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
+* Customer Attrition - proprietary dataset
+
 **NLP / Naive Bayes**
 * [Large Movie Review dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
