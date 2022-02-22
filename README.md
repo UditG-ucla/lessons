@@ -1,7 +1,8 @@
 ## Fitting ML models on various datasets
 
-**PCA**
-* Relative value trades on Treasury Yield Curve 
+**Practical Applications**
+* PCA based approach to finding **relative value trades** on Treasury Yield Curve
+ 
 
 **Linear regression and regularization:** 
 * Advertising dataset (from ISLR)
