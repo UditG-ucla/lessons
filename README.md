@@ -1,5 +1,8 @@
 ## Fitting ML models on various datasets
 
+**PCA**
+* Relative value trades on Treasury Yield Curve 
+
 **Linear regression and regularization:** 
 * Advertising dataset (from ISLR)
 * [Ames housing dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
