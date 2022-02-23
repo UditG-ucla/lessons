@@ -1,4 +1,4 @@
-## Fitting ML models on various datasets
+## ML models used on different datasets, and reading references
 
 **Practical applications**
 * **PCA** based approach to finding relative value trades on Treasury Yield Curve
@@ -41,6 +41,7 @@
 **Recommender System**
 * [Grouplens Movie Rating dataset](https://grouplens.org/datasets/movielens/)
 
+---
 **References & Fun reads:**
 * Trees
   * [Random Decision Forests (1995, Ho)](https://www4.stat.ncsu.edu/~lu/ST7901/reading%20materials/Ho1995.pdf)
@@ -61,4 +62,4 @@
 * Misc
   * Imbalanced learning - [diff approaches](https://imbalanced-learn.org/stable/auto_examples/applications/plot_impact_imbalanced_classes.html)
   * Cross Validation - [scoring objects](https://scikit-learn.org/stable/modules/model_evaluation.html), [different approaches](https://scikit-learn.org/stable/modules/cross_validation.html)
-  * Pipeline vs. Make Pipeline - [stack link](https://stackoverflow.com/questions/40708077/what-is-the-difference-between-pipeline-and-make-pipeline-in-scikit)
+ 
