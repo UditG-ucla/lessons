@@ -2,7 +2,7 @@
 
 **Practical applications**
 * **PCA** based approach to finding relative value trades on Treasury Yield Curve
- 
+* **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using alternate data sampling, cost-function and anomaly algorithm approaches
 
 **Linear regression and regularization:** 
 * Advertising dataset (from ISLR)
