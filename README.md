@@ -43,6 +43,8 @@
 
 ---
 **References & Fun reads:**
+* TensorFlow - [playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.88859&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
 * Trees
   * [Random Decision Forests (1995, Ho)](https://www4.stat.ncsu.edu/~lu/ST7901/reading%20materials/Ho1995.pdf)
   * [Leo Brieman's website](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
@@ -60,6 +62,6 @@
   * [Isolation-Based Anomaly Detection (2012, Liu et al.)](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf)
 
 * Misc
-  * Imbalanced learning - [diff approaches](https://imbalanced-learn.org/stable/auto_examples/applications/plot_impact_imbalanced_classes.html)
+  * Imbalanced learning - [different approaches](https://imbalanced-learn.org/stable/auto_examples/applications/plot_impact_imbalanced_classes.html)
   * Cross Validation - [scoring objects](https://scikit-learn.org/stable/modules/model_evaluation.html), [different approaches](https://scikit-learn.org/stable/modules/cross_validation.html)
  
