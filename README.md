@@ -30,6 +30,7 @@
 * [Mushroom dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
 * [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/data?select=test.csv)
 * [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn) - churn analysis notebook
+* Car Sales Price Prediction (refer separate notebook)
 
 **Neural Network (basic)**
 * [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
