@@ -1,46 +1,53 @@
-## ML models used on different datasets, and reading references
+## Data Science Portoflio of ML models used with different datasets (and reading references)
 
 **Practical applications**
-* **PCA** based approach to finding relative value trades on Treasury Yield Curve
-* **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using techniques from data resampling, cost-sensitive learning, ensemble-learning and anomaly algorithm approaches
+* **PCA** based approach to finding relative value trades on Treasury Yield Curve [notebook](https://github.com/uditgt/Data_science_python/blob/main/PCA%20-%20Treasury%20Rates.ipynb)
+* **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using techniques from data resampling, cost-sensitive learning, ensemble-learning and anomaly algorithm approaches [notebook](https://github.com/uditgt/Data_science_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
 
-**Linear regression and regularization:** 
-* Advertising dataset (from ISLR)
-* [Ames housing dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+**Decision Trees / Random Forest / Ada & Gradient Boosting...**
+* Palmer Penguins [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2010%20Trees%2C%20Forest%2C%20Boosting.ipynb)
+* Banknote Authentication (refer above notebook)
+* Rock Density Xray (regression) (refer above notebook)
+* Mushroom dataset (refer above notebook)
+* Telco Customer Churn [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2010%20Telco%20Churn%20Analysis.ipynb)
 
-**Logistic regression and regularization:**
-* Hearing test dataset
-* [IRIS dataset (for multiclass)](https://www.kaggle.com/uciml/iris)
-* [Heart disease dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
-* Online advertising dataset
-* [Titanic dataset](https://www.kaggle.com/c/titanic/data)
+ **...XGBoost**
+* Car Sales Price Prediction [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20XGBoost%20-%20Car%20Price%20Prediction.ipynb)
+* Santander Customer Transaction Prediction [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2011%20XGBoost.ipynb)
+* Titanic [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20Titanic.ipynb)
+
+**Neural Networks**
+* Customer Attrition (simple NN) - proprietary dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
+* Tweet Classification (bi-directional LSTM) [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20LSTM%20-%20Tweet%20Emotions.ipynb)
+* Telco Churn [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2013%20Simple%20Neural%20Network.ipynb)
+ 
+**SVM classification / regression:**
+_includes building pipeline_
+* Cement slump dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%209%20SVM.ipynb)
+* Wine Fraud dataset (refer above notebook)
 
 **KNN classification:**
-* Gene expression/ Cancer dataset
-* [Mine/ Rock dataset](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
-  
-**SVM classification / regression:**
-* [Cement slump dataset](https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test)
-* Wine Fraud dataset
+_includes building pipeline_
+* Gene expression/ Cancer dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%208%20KNN%20Classification.ipynb)
+* Mine/ Rock dataset (refer above notebook)
+ 
+**Logistic regression and regularization:**
+_includes threshold tuning_
+* Hearing test [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%207%20Logistic%20Regression.ipynb)
+* Heart disease (refer above notebook)
+* Online advertising (refer above notebook)
+* IRIS (refer above notebook)
+* Titanic (refer above notebook, +XGBoost notebook)
 
-**Decision Trees / Random Forest / Ada & Gradient Boosting / XGBoost**
-* [Palmer Penguins dataset](https://archive-beta.ics.uci.edu/ml/datasets/palmer+penguins-3)
-* [Banknote Authentication dataset](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
-* [Rock Density Xray dataset (regression)](https://www.kaggle.com/ahmedmohameddawoud/rock-density-xray/activity)
-* [Mushroom dataset](https://archive.ics.uci.edu/ml/datasets/mushroom)
-* [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/data?select=test.csv)
-* [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn) - churn analysis notebook
-* Car Sales Price Prediction (refer separate notebook)
-
-**Neural Network (basic)**
-* [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
-* Customer Attrition - proprietary dataset
+**Linear regression and regularization:** 
+* Advertising dataset (from ISLR) [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%206%20Linear%20Regression.ipynb)
+* Ames housing dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20Ames%20Housing%20dataset.ipynb)
 
 **NLP / Naive Bayes**
-* [Large Movie Review dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+* Large Movie Review dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2012%20NLP%20%26%20Naive%20Bayes.ipynb)
 
 **Recommender System**
-* [Grouplens Movie Rating dataset](https://grouplens.org/datasets/movielens/)
+* Grouplens Movie Rating dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20Recommendation%20System.ipynb)
 
 ---
 **References & Fun reads:**
