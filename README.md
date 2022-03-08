@@ -68,3 +68,4 @@
   * Feature Engineering - [MLM article](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/), [HSE lectures](https://www.coursera.org/learn/competitive-data-science/lecture/1Nh5Q/overview)
   * Kaggle winners - [Heritage Provider Network](https://foreverdata.org/1015/content/milestone1-2.pdf)
   * PPTs - [XGBoost](https://static1.squarespace.com/static/59f31b56be42d6ba6ad697b2/t/5a72f3ee8165f596c6ec1ee7/1517482994580/Presentatation+BI+lunch+XGBoost.pdf)
+  * Technical Papers - [separate repo](https://github.com/uditgt/Literature)
