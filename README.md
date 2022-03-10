@@ -54,6 +54,8 @@ _includes threshold tuning_
 **References & Fun reads:**
 * TensorFlow - [playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.88859&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
+* XGBoost Tuning - Owen Zhang's [utube](https://www.youtube.com/watch?v=LgLcfZjNF44) and [slides](https://www.slideshare.net/ShangxuanZhang/winning-data-science-competitions-presented-by-owen-zhang), MLM [post](https://machinelearningmastery.com/configure-gradient-boosting-algorithm/)
+
 * Trees
   * [Random Decision Forests (1995, Ho)](https://www4.stat.ncsu.edu/~lu/ST7901/reading%20materials/Ho1995.pdf)
   * [Leo Brieman's website](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
