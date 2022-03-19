@@ -78,5 +78,5 @@ _includes threshold tuning_
   * Cross Validation - [scoring objects](https://scikit-learn.org/stable/modules/model_evaluation.html), [different approaches](https://scikit-learn.org/stable/modules/cross_validation.html)
   * Feature Engineering - [MLM article](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/), [HSE lectures](https://www.coursera.org/learn/competitive-data-science/lecture/1Nh5Q/overview)
   * Kaggle winners - [Heritage Provider Network](https://foreverdata.org/1015/content/milestone1-2.pdf)
-  * PPTs - 
+  * Statistics - [P-hacking 538](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
   * Technical Papers - [separate repo](https://github.com/uditgt/Literature)
