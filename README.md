@@ -54,8 +54,8 @@ _includes threshold tuning_
 **References & Fun reads:**
 
 * XGBoost Tuning - Owen Zhang's [utube](https://www.youtube.com/watch?v=LgLcfZjNF44) and [slides](https://www.slideshare.net/ShangxuanZhang/winning-data-science-competitions-presented-by-owen-zhang), MLM [post](https://machinelearningmastery.com/configure-gradient-boosting-algorithm/), Tianqi Chen [talk](https://www.youtube.com/watch?v=Vly8xGnNiWs) and [ppt](https://speakerdeck.com/datasciencela/tianqi-chen-xgboost-overview-and-latest-news-la-meetup-talk), [Martin Jullum](https://static1.squarespace.com/static/59f31b56be42d6ba6ad697b2/t/5a72f3ee8165f596c6ec1ee7/1517482994580/Presentatation+BI+lunch+XGBoost.pdf)
-
 * TensorFlow - [playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.88859&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+* Regex [Crossword](https://regexcrossword.com/), [Regex101](https://regex101.com/)
 
 * Trees
   * [Random Decision Forests (1995, Ho)](https://www4.stat.ncsu.edu/~lu/ST7901/reading%20materials/Ho1995.pdf)
