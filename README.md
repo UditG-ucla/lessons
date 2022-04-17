@@ -1,4 +1,4 @@
-## Data Science Portoflio of ML models used with different datasets (and reading references)
+## Data Science Portoflio of ML models (and reading references)
 
 **Practical applications**
 * **PCA** based approach to finding relative value trades on Treasury Yield Curve [notebook](https://github.com/uditgt/Data_science_python/blob/main/PCA%20-%20Treasury%20Rates.ipynb)
@@ -80,3 +80,4 @@ _includes threshold tuning_
   * Kaggle winners - [Heritage Provider Network](https://foreverdata.org/1015/content/milestone1-2.pdf)
   * Statistics - [P-hacking 538](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
   * Technical Papers - [separate repo](https://github.com/uditgt/Literature)
+  * [Python stylyguide](https://google.github.io/styleguide/pyguide.html)
