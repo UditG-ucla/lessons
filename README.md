@@ -80,4 +80,4 @@ _includes threshold tuning_
   * Kaggle winners - [Heritage Provider Network](https://foreverdata.org/1015/content/milestone1-2.pdf)
   * Statistics - [P-hacking 538](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
   * Technical Papers - [separate repo](https://github.com/uditgt/Literature)
-  * [Python stylyguide](https://google.github.io/styleguide/pyguide.html)
+  * Python stylyguides - [Google guide](https://google.github.io/styleguide/pyguide.html), [PEP8](https://peps.python.org/pep-0008/), [YAPF](https://github.com/google/yapf/)
