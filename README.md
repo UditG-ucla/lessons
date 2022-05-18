@@ -81,3 +81,4 @@ _includes threshold tuning_
   * Statistics - [P-hacking 538](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
   * Technical Papers - [separate repo](https://github.com/uditgt/Literature)
   * Python stylyguides - [Google guide](https://google.github.io/styleguide/pyguide.html), [PEP8](https://peps.python.org/pep-0008/), [YAPF](https://github.com/google/yapf/)
+  * Applied ML at Facebook - [pdf](https://github.com/uditgt/Data_science_python/blob/main/Paper%20-%20Applied%20ML%20at%20Facebook.pdf), [link](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/240847421_643405026543621_3811090504941724164_n.pdf?_nc_cat=110&ccb=1-6&_nc_sid=ad8a9d&_nc_ohc=-QF5P_f4D0MAX-PSpu9&_nc_ht=scontent-lax3-1.xx&oh=00_AT-5os1UOktZvuJsjU24HZ5VDhNmArjpBs0AMF0YB2j9eA&oe=6289B9DC)
