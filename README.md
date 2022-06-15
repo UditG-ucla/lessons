@@ -17,7 +17,7 @@
 * Titanic [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20Titanic.ipynb)
 
 **Neural Networks**
-* Tweet Classification (bi-directional LSTM) [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20LSTM%20-%20Tweet%20Emotions.ipynb)
+* Tweet Classification (bi-directional LSTM) [notebook](https://github.com/uditgt/Projects/blob/main/NLP%20%26%20Keras%20-%20Tweet%20Emotions/NLP%20%26%20Keras%20-%20Multi-class%20Tweet%20Emotions.ipynb)
 * Fake News detection [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20LSTM%20-%20Fake%20News.ipynb)
 * Telco Churn [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2013%20Simple%20Neural%20Network.ipynb)
 * Customer Attrition (simple NN) - proprietary dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
