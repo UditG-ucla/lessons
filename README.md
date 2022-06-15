@@ -1,7 +1,7 @@
 ## Data Science Portoflio of ML models (and reading references)
 
 **Practical applications**
-* **PCA** based approach to finding relative value trades on Treasury Yield Curve [notebook](https://github.com/uditgt/Data_science_python/blob/main/PCA%20-%20Treasury%20Rates.ipynb)
+* **PCA** based approach to finding relative value trades on Treasury Yield Curve [notebook](https://github.com/uditgt/Projects/blob/main/PCA%20-%20Relative%20Value%20Trading/PCA%20-%20Relative%20Value%20Trading.ipynb)
 * **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using techniques from data resampling, cost-sensitive learning, ensemble-learning and anomaly algorithm approaches [notebook](https://github.com/uditgt/Data_science_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
 
 **Decision Trees / Random Forest / Ada & Gradient Boosting...**
