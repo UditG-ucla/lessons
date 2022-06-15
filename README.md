@@ -2,53 +2,53 @@
 
 **Practical applications**
 * **PCA** based approach to finding relative value trades on Treasury Yield Curve [notebook](https://github.com/uditgt/Projects/blob/main/PCA%20-%20Relative%20Value%20Trading/PCA%20-%20Relative%20Value%20Trading.ipynb)
-* **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using techniques from data resampling, cost-sensitive learning, ensemble-learning and anomaly algorithm approaches [notebook](https://github.com/uditgt/Data_science_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
+* **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using techniques from data resampling, cost-sensitive learning, ensemble-learning and anomaly algorithm approaches [notebook](https://github.com/uditgt/ml_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
 
 **Decision Trees / Random Forest / Ada & Gradient Boosting...**
-* Palmer Penguins [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2010%20Trees%2C%20Forest%2C%20Boosting.ipynb)
+* Palmer Penguins [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%2010%20Trees%2C%20Forest%2C%20Boosting.ipynb)
 * Banknote Authentication (refer above notebook)
 * Rock Density Xray (regression) (refer above notebook)
 * Mushroom dataset (refer above notebook)
-* Telco Customer Churn [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2010%20Telco%20Churn%20Analysis.ipynb)
+* Telco Customer Churn [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%2010%20Telco%20Churn%20Analysis.ipynb)
 
  **...XGBoost**
-* Car Sales Price Prediction [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20XGBoost%20-%20Car%20Price%20Prediction.ipynb)
-* Santander Customer Transaction Prediction [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2011%20XGBoost.ipynb)
-* Titanic [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20Titanic.ipynb)
+* Car Sales Price Prediction [notebook](https://github.com/uditgt/ml_python/blob/main/Example%20-%20XGBoost%20-%20Car%20Price%20Prediction.ipynb)
+* Santander Customer Transaction Prediction [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%2011%20XGBoost.ipynb)
+* Titanic [notebook](https://github.com/uditgt/ml_python/blob/main/Example%20-%20Titanic.ipynb)
 
 **Neural Networks**
 * Tweet Classification (bi-directional LSTM) [notebook](https://github.com/uditgt/Projects/blob/main/NLP%20%26%20Keras%20-%20Tweet%20Emotions/NLP%20%26%20Keras%20-%20Multi-class%20Tweet%20Emotions.ipynb)
-* Fake News detection [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20LSTM%20-%20Fake%20News.ipynb)
-* Telco Churn [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2013%20Simple%20Neural%20Network.ipynb)
-* Customer Attrition (simple NN) - proprietary dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
+* Fake News detection [notebook](https://github.com/uditgt/ml_python/blob/main/Example%20-%20LSTM%20-%20Fake%20News.ipynb)
+* Telco Churn [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%2013%20Simple%20Neural%20Network.ipynb)
+* Customer Attrition (simple NN) - proprietary dataset [notebook](https://github.com/uditgt/ml_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
  
 **SVM classification / regression:**
 _includes building pipeline_
-* Cement slump dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%209%20SVM.ipynb)
+* Cement slump dataset [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%209%20SVM.ipynb)
 * Wine Fraud dataset (refer above notebook)
 
 **KNN classification:**
 _includes building pipeline_
-* Gene expression/ Cancer dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%208%20KNN%20Classification.ipynb)
+* Gene expression/ Cancer dataset [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%208%20KNN%20Classification.ipynb)
 * Mine/ Rock dataset (refer above notebook)
  
 **Logistic regression and regularization:**
 _includes threshold tuning_
-* Hearing test [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%207%20Logistic%20Regression.ipynb)
+* Hearing test [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%207%20Logistic%20Regression.ipynb)
 * Heart disease (refer above notebook)
 * Online advertising (refer above notebook)
 * IRIS (refer above notebook)
 * Titanic (refer above notebook, +XGBoost notebook)
 
 **Linear regression and regularization:** 
-* Advertising dataset (from ISLR) [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%206%20Linear%20Regression.ipynb)
-* Ames housing dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20Ames%20Housing%20dataset.ipynb)
+* Advertising dataset (from ISLR) [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%206%20Linear%20Regression.ipynb)
+* Ames housing dataset [notebook](https://github.com/uditgt/ml_python/blob/main/Example%20-%20Ames%20Housing%20dataset.ipynb)
 
 **NLP / Naive Bayes**
-* Large Movie Review dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/DS%20-%2012%20NLP%20%26%20Naive%20Bayes.ipynb)
+* Large Movie Review dataset [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%2012%20NLP%20%26%20Naive%20Bayes.ipynb)
 
 **Recommender System**
-* Grouplens Movie Rating dataset [notebook](https://github.com/uditgt/Data_science_python/blob/main/Example%20-%20Recommendation%20System.ipynb)
+* Grouplens Movie Rating dataset [notebook](https://github.com/uditgt/ml_python/blob/main/Example%20-%20Recommendation%20System.ipynb)
 
 ---
 **References & Fun reads:**
@@ -81,4 +81,4 @@ _includes threshold tuning_
   * Statistics - [P-hacking 538](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
   * Technical Papers - [separate repo](https://github.com/uditgt/Literature)
   * Python stylyguides - [Google guide](https://google.github.io/styleguide/pyguide.html), [PEP8](https://peps.python.org/pep-0008/), [YAPF](https://github.com/google/yapf/)
-  * Applied ML at Facebook - [pdf](https://github.com/uditgt/Data_science_python/blob/main/Paper%20-%20Applied%20ML%20at%20Facebook.pdf), [link](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/240847421_643405026543621_3811090504941724164_n.pdf?_nc_cat=110&ccb=1-6&_nc_sid=ad8a9d&_nc_ohc=-QF5P_f4D0MAX-PSpu9&_nc_ht=scontent-lax3-1.xx&oh=00_AT-5os1UOktZvuJsjU24HZ5VDhNmArjpBs0AMF0YB2j9eA&oe=6289B9DC)
+  * Applied ML at Facebook - [pdf](https://github.com/uditgt/ml_python/blob/main/Paper%20-%20Applied%20ML%20at%20Facebook.pdf), [link](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/240847421_643405026543621_3811090504941724164_n.pdf?_nc_cat=110&ccb=1-6&_nc_sid=ad8a9d&_nc_ohc=-QF5P_f4D0MAX-PSpu9&_nc_ht=scontent-lax3-1.xx&oh=00_AT-5os1UOktZvuJsjU24HZ5VDhNmArjpBs0AMF0YB2j9eA&oe=6289B9DC)
