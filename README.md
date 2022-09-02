@@ -1,8 +1,4 @@
-## Data Science Portoflio of ML models (and reading references)
-
-**Practical applications**
-* **PCA** based approach to finding relative value trades on Treasury Yield Curve [notebook](https://github.com/uditgt/Projects/blob/main/PCA%20-%20Relative%20Value%20Trading/PCA%20-%20Relative%20Value%20Trading.ipynb)
-* **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using techniques from data resampling, cost-sensitive learning, ensemble-learning and anomaly algorithm approaches [notebook](https://github.com/uditgt/ml_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
+## Machine Learning using Python (Udemy) | [Certification](https://www.udemy.com/certificate/UC-28cb515d-d4ac-476d-96ed-5c975e5e0bbc/) 🎓
 
 **Decision Trees / Random Forest / Ada & Gradient Boosting...**
 * Palmer Penguins [notebook](https://github.com/uditgt/ml_python/blob/main/DS%20-%2010%20Trees%2C%20Forest%2C%20Boosting.ipynb)
@@ -49,6 +45,10 @@ _includes threshold tuning_
 
 **Recommender System**
 * Grouplens Movie Rating dataset [notebook](https://github.com/uditgt/ml_python/blob/main/Example%20-%20Recommendation%20System.ipynb)
+
+**Other examples**
+* **PCA** based approach to finding relative value trades on Treasury Yield Curve [notebook](https://github.com/uditgt/Projects/blob/main/PCA%20-%20Relative%20Value%20Trading/PCA%20-%20Relative%20Value%20Trading.ipynb)
+* **Imbalanced learning** on Customer Attrition dataset (proprietary) with 1:50 imbalance - using techniques from data resampling, cost-sensitive learning, ensemble-learning and anomaly algorithm approaches [notebook](https://github.com/uditgt/ml_python/blob/main/Imbalanced%20Learning%20-%20Customer%20Attrition%20Study.ipynb)
 
 ---
 **References & Fun reads:**
